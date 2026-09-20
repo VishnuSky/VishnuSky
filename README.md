@@ -36,7 +36,7 @@ Go to `github.com/VishnuSky/Legal-GPT` → click the gear icon next to **About**
 - [ ] About description: `Open-source legal literacy. Verified public law and service directories. Powers Public Law Scout on Grok. Not legal advice.`
 - [ ] Homepage: `https://x.ai/bot/4p9YXeUcvV7TeiErQvdIj`
 - [ ] Add the 8 topics listed above
-- [ ] License: if GitHub shows `Other` instead of MIT, add `SPDX-License-Identifier: MIT` on line 1 of the `LICENSE` file and keep the practice disclaimer below
+- [ ] License: if GitHub shows `Other` instead of MIT, verify the `LICENSE` file matches the standard MIT text and move any extra practice disclaimer outside the license body
 
 ### Stub repos
 
