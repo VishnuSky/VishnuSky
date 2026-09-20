@@ -4,7 +4,7 @@
 
 ### Profile page (`github.com/VishnuSky`)
 
-- [ ] Create `VishnuSky/VishnuSky` repo and paste `PROFILE_README.md`
+- [ ] Create `VishnuSky/VishnuSky` repo and publish the contents of `README.md`
 - [ ] Pin only `Legal-GPT` (unpin everything else)
 - [ ] Bio: `Public legal literacy tools. Not a lawyer. Not legal advice.`
 - [ ] Website: `https://x.ai/bot/4p9YXeUcvV7TeiErQvdIj`
